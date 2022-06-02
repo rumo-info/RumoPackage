@@ -6,6 +6,6 @@ class Users
 {
     public function list()
     {
-        echo 'Users list';
+        return view('welcome_message');
     }
 }
