@@ -1,0 +1,19 @@
+{
+    "name": "rumo-packages/my-users",
+    "description": "Minha Biblioteca",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rumo",
+            "email": "rumo.info@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "RumoPackage\\": "src/"
+        }
+    }
+}
