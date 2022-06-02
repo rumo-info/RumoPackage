@@ -5,7 +5,7 @@ namespace RumoPackage;
 use App\Models\UsuarioModel;
 
 
-class MyUsers
+class MyUsers extends BaseController
 {
 	public function list()
 	{
