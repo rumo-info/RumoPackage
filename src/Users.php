@@ -2,6 +2,10 @@
 
 namespace RumoPackage;
 
-class Teste
+class Users
 {
+    public function list()
+    {
+        echo 'Users list';
+    }
 }
