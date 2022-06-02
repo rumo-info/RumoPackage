@@ -10,7 +10,7 @@ use App\Models\Products\ProtecaoVeicular\CategoriaModel;
 use App\Models\Products\ProtecaoVeicular\CategoriaUsuarioModel as ProtecaoVeicularCategoriaUsuarioModel;
 use CodeIgniter\API\ResponseTrait;
 
-class Users extends BaseController
+class MyTest
 {
 
 	use ResponseTrait;
