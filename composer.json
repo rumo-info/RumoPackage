@@ -15,5 +15,9 @@
         "psr-4": {
             "RumoPackage\\": "src/"
         }
+    },
+    "scripts": {
+        "deduplicate": "phpcpd app/ src/"
     }
+    
 }
